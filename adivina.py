@@ -24,3 +24,6 @@ while intentos < max_intentos:
 
 if not adivinado:
     print(f"Lo siento, has agotado tus {max_intentos} intentos. El número secreto era: {numero_secreto}. ¡Mejor suerte la próxima vez!")
+
+
+#Hola carlos estoy saludando desde dani-nueva
