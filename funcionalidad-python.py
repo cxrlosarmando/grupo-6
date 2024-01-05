@@ -9,3 +9,4 @@ def multiplicar():
 
 # Llamada a la función para multiplicar
 multiplicar()
+print("caro estuvo aquí jeje")
