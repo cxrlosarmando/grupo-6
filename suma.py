@@ -1,5 +1,5 @@
 def suma(a, b):
-    return = a + b
+    return a + b
     
 numero3 = float(input("Ingrese un número: "))
 numero4 = float(input("Ingrese otro número: "))
